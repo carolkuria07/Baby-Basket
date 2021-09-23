@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066005843800",
+    "project_id": "baby-shopping-54f5d",
+    "storage_bucket": "baby-shopping-54f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066005843800:android:12bb595c7f13bcbfd01f2d",
+        "android_client_info": {
+          "package_name": "com.kuria.babybasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066005843800-ho80scnshb4vloigeu700uar6tvp81e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFLC4Cu3FVmeFuyuoYzgDSb_fG-IwgXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066005843800-ho80scnshb4vloigeu700uar6tvp81e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
